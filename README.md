@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SAGAR — SAR-based Automated Geospatial Analysis for Recognition of oil spills
 
 A frontend-only prototype of a marine oil spill detection and AIS vessel
@@ -188,3 +189,6 @@ loaded in the app.
   a crash.
 - Built desktop-first for 1440×900, responsive down through laptop/tablet;
   side panels collapse progressively as the viewport narrows.
+=======
+# CodeAndCreate
+>>>>>>> f64f66500ce245a751ff5ea1a2043c245c7ff5b4
